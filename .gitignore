@@ -1,2 +1,4 @@
 *.ign
 /temp/*
+*notes.txt
+*password.txt
